@@ -39,6 +39,7 @@ target "Potatso" do
     pod 'ObjectMapper'
     pod 'CocoaLumberjack/Swift', '~> 3.0.0'
     pod 'PSOperations'
+    pod 'Crashlytics'
     tunnel
     library
     socket
